@@ -5,4 +5,3 @@
 **/*/public/assets
 **/*/node_modules
 *.swp
-Gemfile.lock
